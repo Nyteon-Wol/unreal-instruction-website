@@ -1,4 +1,4 @@
-# Nyteon - Unreal Engine para Games
+# Nyteon - Unreal Engine para Games - Curso Imersão Dev com Gemini (Alura & Google)
 
 Este é um projeto voltado para a exploração e aprendizado sobre a **Unreal Engine 5** e suas funcionalidades, com foco em desenvolvimento de jogos. O site permite buscar informações e recursos relacionados à engine, além de ser um ponto de partida para desenvolvedores interessados em aprimorar suas habilidades.
 
